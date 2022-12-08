@@ -14,7 +14,7 @@ This game is written in conversation with [ChatGPT](https://chat.openai.com/), t
 
 ## Running
 
-Clone the repository, and drag it into your browser, or through any other means you can use it.
+Clone the repository, and drag it into your browser, or through any other means you can use it. Alternatively, you can play it live [here](https://arve.github.io/gpt-snek/).
 
 ## Bugs
 

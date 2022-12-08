@@ -38,6 +38,7 @@ let grid = [];
 let hasFruit = false;
 let snake;
 let isPlaying = true;
+let gameOver = false;
 
 // A class to represent the snake
 class Snake {
